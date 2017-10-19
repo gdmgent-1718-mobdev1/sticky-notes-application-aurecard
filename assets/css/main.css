@@ -1,0 +1,9 @@
+body {
+	background-color: #E0FFFF;
+}
+
+.sticky {
+	background-color: lightyellow;
+	width: 220px;
+	margin: 50px;
+}
