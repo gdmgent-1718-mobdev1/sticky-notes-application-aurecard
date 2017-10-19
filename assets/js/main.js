@@ -13,6 +13,7 @@ ready(function(){
             this.testApplicationDbContext(); // Test DbContext
         },
         "testApplicationDbContext": function() {
+
             // 1. Get all sticky notes
             let data = this._applicationDbContext.getStickyNotes();
             console.log(data);
